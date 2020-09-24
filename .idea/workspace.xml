@@ -1,0 +1,1164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c18a96e-5db5-4713-9a62-f0a90a710f60" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/chidao.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/kuang.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/zaotui.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/page/home/aleave.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/page/home/amonth.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/page/home/aoutwork.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/page/home/aovertime.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/page/home/outwork.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/page/home/overtime.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/page/home/reimbursement1.vue" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/css/app.aa978fb96cce1551327c9b26a50fcbfe.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/css/font.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/css/font/iconfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/css/font/iconfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/css/font/iconfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/css/font/iconfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/css/global.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/css/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/css/tp5page.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/fonts/element-icons.b02bdc1.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/image/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/img/shang.376112b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/img/zongbu.50ed3e0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/0.0abdf9957e7d34d1f003.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/1.5425d278ea3e3571fc2c.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/10.079916dc72792b503467.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/11.be226ca3de7f8780c501.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/12.9d16bb840f25aa502d11.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/13.eaf1d4b5b6586307bfed.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/14.428c135a4534b5fff215.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/15.54fa09cfd10545583cb5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/16.7df4af0c414d7eb930f6.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/17.e2e4c4085c7f7616cf80.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/18.a7cfe5d98b6a0541ca0c.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/19.1402d4059a55f3528e45.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/2.b20c1c6e984163358fd2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/20.76dbc6faca96db2255cc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/21.a692293b1d2d7eb1a8ed.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/22.685a441fe73c7a086009.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/23.1e37d6140e60ec9b8b4d.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/24.76a6b30489f4483187b7.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/25.6f56db888790219df41d.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/26.d8b5de04477757a225b0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/27.9af07051bf7ca258482a.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/28.aff600881b76e2dac77a.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/29.4769252556df3dc1e68b.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/3.f459878a777b0ed69fdc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/30.f3adabbeef6c95beb4a7.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/31.d47a98d937f5ab5ffe86.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/32.ca3f047b2023945d8666.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/33.336b17c046b0bc69440b.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/34.1264c0611b77153389b3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/35.5c38a2788e7e520e57af.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/36.11a361c4779a4a406da5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/37.48d6771ef0dddad232dd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/38.a4b5917223eed3f3d35c.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/39.e1c863673d6e69f3d11b.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/4.ce3b52864bc7436ab026.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/40.8c15d7d0b601779417de.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/41.2079d11f648c80b0c620.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/42.396b7a5d5ef7656c75d9.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/43.494b90adf08a9bf99f39.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/44.6c4b278333ca75c01d05.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/45.5cfc808333e68d5975ba.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/46.ff9edc09484f9eba7ec5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/47.231fc2d890a8353e66e4.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/48.e698aa23c8b610cc909a.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/5.6233e091d8845ac9ea60.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/6.15ff820b94a08c66db43.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/7.c658222957865d313fc6.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/8.487e981455addde5f09f.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/9.bec9eb42e4c6dee7cebf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/app.3fa2f7544210a41d08a4.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/common.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/jquery-1.8.3.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/manifest.2039dfa4e399001565c9.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/js/vendor.377c891430228961f5f8.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/css/layui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/css/layui.mobile.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/css/modules/code.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/css/modules/laydate/default/laydate.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/css/modules/layer/default/icon-ext.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/css/modules/layer/default/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/css/modules/layer/default/layer.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/css/modules/layer/default/loading-0.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/css/modules/layer/default/loading-1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/css/modules/layer/default/loading-2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/font/iconfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/font/iconfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/font/iconfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/font/iconfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/0.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/10.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/11.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/12.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/13.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/14.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/15.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/16.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/17.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/18.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/19.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/20.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/21.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/22.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/23.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/24.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/25.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/26.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/27.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/28.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/29.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/3.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/30.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/31.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/32.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/33.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/34.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/35.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/36.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/37.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/38.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/39.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/4.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/40.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/41.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/42.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/43.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/44.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/45.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/46.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/47.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/48.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/49.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/5.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/50.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/51.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/52.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/53.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/54.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/55.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/56.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/57.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/58.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/59.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/6.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/60.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/61.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/62.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/63.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/64.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/65.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/66.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/67.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/68.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/69.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/7.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/70.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/71.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/8.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/images/face/9.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/lay/modules/carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/lay/modules/code.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/lay/modules/colorpicker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/lay/modules/element.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/lay/modules/flow.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/lay/modules/form.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/lay/modules/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/lay/modules/laydate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/lay/modules/layedit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/lay/modules/layer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/lay/modules/laypage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/lay/modules/laytpl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/lay/modules/mobile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/lay/modules/rate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/lay/modules/slider.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/lay/modules/table.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/lay/modules/tree.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/lay/modules/upload.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/lay/modules/util.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/layui.all.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage/static/layui/layui.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/page/b.vue" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/index.js" afterPath="$PROJECT_DIR$/config/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/global.vue" afterPath="$PROJECT_DIR$/src/components/global.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main.js" afterPath="$PROJECT_DIR$/src/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/page/home/clock.vue" afterPath="$PROJECT_DIR$/src/page/home/clock.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/page/home/holiday.vue" afterPath="$PROJECT_DIR$/src/page/home/holiday.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/page/home/home.vue" afterPath="$PROJECT_DIR$/src/page/home/home.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/page/home/manage.vue" afterPath="$PROJECT_DIR$/src/page/home/manage.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/page/home/reimbursement.vue" afterPath="$PROJECT_DIR$/src/page/home/reimbursement.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/page/index.vue" afterPath="$PROJECT_DIR$/src/page/index.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/router/index.js" afterPath="$PROJECT_DIR$/src/router/index.js" />
+    </list>
+    <ignored path="vue2-manage-master.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="vue2-manage-master" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/router/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="325" column="0" selection-start-line="325" selection-start-column="0" selection-end-line="353" selection-end-column="2" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1141">
+              <caret line="70" column="23" selection-start-line="70" selection-start-column="23" selection-end-line="70" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reimbursement.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/page/home/reimbursement.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5643">
+              <caret line="209" column="22" selection-start-line="209" selection-start-column="22" selection-end-line="209" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="amonth.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/page/home/amonth.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="clock.vue" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/page/home/clock.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="334">
+              <caret line="165" column="10" selection-start-line="165" selection-start-column="10" selection-end-line="165" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aoutwork.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/page/home/aoutwork.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4077">
+              <caret line="151" column="64" selection-start-line="151" selection-start-column="64" selection-end-line="151" selection-end-column="64" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aleave.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/page/home/aleave.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="756">
+              <caret line="28" column="46" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="lijunfang" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/page/activityDetail.vue" />
+        <option value="$PROJECT_DIR$/src/page/home/enclosure.vue" />
+        <option value="$PROJECT_DIR$/src/page/home/vote.vue" />
+        <option value="$PROJECT_DIR$/src/page/home/information.vue" />
+        <option value="$PROJECT_DIR$/src/components/Footer.vue" />
+        <option value="$PROJECT_DIR$/src/components/Header.vue" />
+        <option value="$PROJECT_DIR$/src/components/Hot.vue" />
+        <option value="$PROJECT_DIR$/src/components/Memo.vue" />
+        <option value="$PROJECT_DIR$/src/components/replyCard.vue" />
+        <option value="$PROJECT_DIR$/src/components/Search.vue" />
+        <option value="$PROJECT_DIR$/src/components/activity.vue" />
+        <option value="$PROJECT_DIR$/src/components/Sign.vue" />
+        <option value="$PROJECT_DIR$/src/page/home/userset.vue" />
+        <option value="F:/bbsManage/src/page/leave/leave.vue" />
+        <option value="F:/bbsManage/src/page/leave/holiday.vue" />
+        <option value="F:/bbsManage/src/page/leave/reimbursement.vue" />
+        <option value="$PROJECT_DIR$/src/page/home/usercenter.vue" />
+        <option value="$PROJECT_DIR$/src/page/home/reply.vue" />
+        <option value="$PROJECT_DIR$/src/page/home/mytopic.vue" />
+        <option value="$PROJECT_DIR$/src/page/home/myarticle.vue" />
+        <option value="$PROJECT_DIR$/src/page/home/homes.vue" />
+        <option value="$PROJECT_DIR$/src/page/home/messages.vue" />
+        <option value="$PROJECT_DIR$/src/page/home/leave.vue" />
+        <option value="$PROJECT_DIR$/src/page/home/myactivity.vue" />
+        <option value="$PROJECT_DIR$/src/page/home/project.vue" />
+        <option value="$PROJECT_DIR$/src/config/lang/en-us.js" />
+        <option value="$PROJECT_DIR$/src/config/lang/zh-cn.js" />
+        <option value="$PROJECT_DIR$/src/page/step.vue" />
+        <option value="$PROJECT_DIR$/src/page/noteList.vue" />
+        <option value="$PROJECT_DIR$/src/page/home/home.vue" />
+        <option value="$PROJECT_DIR$/src/page/index.vue" />
+        <option value="$PROJECT_DIR$/src/main.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/config/index.js" />
+        <option value="D:/demo/src/page/login.vue" />
+        <option value="$PROJECT_DIR$/src/page/home/a.vue" />
+        <option value="$PROJECT_DIR$/src/page/home/overtime.vue" />
+        <option value="$PROJECT_DIR$/src/page/home/outwork.vue" />
+        <option value="$PROJECT_DIR$/src/page/home/holiday.vue" />
+        <option value="$PROJECT_DIR$/src/page/home/aleave.vue" />
+        <option value="$PROJECT_DIR$/src/page/home/aovertime.vue" />
+        <option value="$PROJECT_DIR$/src/page/home/manage.vue" />
+        <option value="$PROJECT_DIR$/src/page/home/attendance.vue" />
+        <option value="$PROJECT_DIR$/src/page/home/reimbursement.vue" />
+        <option value="$PROJECT_DIR$/src/page/home/amonth.vue" />
+        <option value="$PROJECT_DIR$/src/page/home/aoutwork.vue" />
+        <option value="$USER_HOME$/Desktop/global/src/components/qcwy/index.vue" />
+        <option value="$PROJECT_DIR$/src/router/index.js" />
+        <option value="$PROJECT_DIR$/src/App.vue" />
+        <option value="$PROJECT_DIR$/src/components/global.vue" />
+        <option value="$PROJECT_DIR$/src/page/home/clock.vue" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bbsMaster" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bbsMaster" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bbsMaster" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/hotel" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="editor.config.accepted" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="js-jscs-nodeInterpreter" value="D:\nodejs\node.exe" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="F:\vue2-manage-master\node_modules\mocha" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="JavaScriptPreferStrict" value="true" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://F:/vue2-manage-master/src/page/edit.vue" />
+    <property name="nodejs_interpreter_path" value="D:\nodejs\node" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\bbsMaster\src\page" />
+      <recent name="F:\bbsMaster\src" />
+      <recent name="F:\bbs\src\components" />
+      <recent name="F:\vue2-manage-master\src\components" />
+      <recent name="F:\vue2-manage-master\src\page" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\bbsMaster\src\page\home" />
+      <recent name="F:\bbsMaster\src\assets\img" />
+      <recent name="F:\bbsMaster\src\config" />
+      <recent name="F:\bbsMaster\src\page" />
+      <recent name="F:\bbsMaster\src\components" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.a.html">
+    <configuration default="false" name="a.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/vue2-manage-master/a.html">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.a.html" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.a.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c18a96e-5db5-4713-9a62-f0a90a710f60" name="Default" comment="" />
+      <created>1539330814741</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539330814741</updated>
+      <workItem from="1539330815927" duration="4495000" />
+      <workItem from="1539335769051" duration="4033000" />
+      <workItem from="1539590388962" duration="21000" />
+      <workItem from="1539759185553" duration="371000" />
+      <workItem from="1539760120791" duration="481000" />
+      <workItem from="1539928082119" duration="14621000" />
+      <workItem from="1540173499734" duration="27681000" />
+      <workItem from="1540256541315" duration="29908000" />
+      <workItem from="1540344388499" duration="22214000" />
+      <workItem from="1540430171916" duration="23368000" />
+      <workItem from="1540515532930" duration="23674000" />
+      <workItem from="1540774999603" duration="1822000" />
+      <workItem from="1540777934489" duration="27145000" />
+      <workItem from="1540863705878" duration="26475000" />
+      <workItem from="1540947759615" duration="27524000" />
+      <workItem from="1541034377551" duration="27812000" />
+      <workItem from="1541120710830" duration="23862000" />
+      <workItem from="1541380248074" duration="8220000" />
+      <workItem from="1541396227318" duration="19070000" />
+      <workItem from="1541466422209" duration="20813000" />
+      <workItem from="1541553830395" duration="8996000" />
+      <workItem from="1541570959745" duration="22711000" />
+      <workItem from="1541640249507" duration="34746000" />
+      <workItem from="1541727091196" duration="12594000" />
+      <workItem from="1541752547298" duration="5195000" />
+      <workItem from="1541985011424" duration="24724000" />
+      <workItem from="1542071663592" duration="27776000" />
+      <workItem from="1542158289614" duration="25106000" />
+      <workItem from="1542244448692" duration="29920000" />
+      <workItem from="1542330895104" duration="22846000" />
+      <workItem from="1542589397998" duration="29493000" />
+      <workItem from="1542763090661" duration="37976000" />
+      <workItem from="1542849377811" duration="15667000" />
+      <workItem from="1542871551781" duration="38000" />
+      <workItem from="1542873929774" duration="10143000" />
+      <workItem from="1542935689760" duration="27098000" />
+      <workItem from="1543194388818" duration="32394000" />
+      <workItem from="1543281642324" duration="23111000" />
+      <workItem from="1543366876827" duration="25114000" />
+      <workItem from="1543454294582" duration="13028000" />
+      <workItem from="1543474961969" duration="3224000" />
+      <workItem from="1543479782550" duration="6279000" />
+      <workItem from="1543541474427" duration="23505000" />
+      <workItem from="1543799424696" duration="22968000" />
+      <workItem from="1543885902393" duration="19044000" />
+      <workItem from="1543971887759" duration="22158000" />
+      <workItem from="1544058944972" duration="22063000" />
+      <workItem from="1544145126500" duration="8604000" />
+      <workItem from="1544180472354" duration="4799000" />
+      <workItem from="1544318332810" duration="207000" />
+      <workItem from="1544404214157" duration="3499000" />
+      <workItem from="1544411963308" duration="11412000" />
+      <workItem from="1544427060921" duration="285000" />
+      <workItem from="1544437869283" duration="3861000" />
+      <workItem from="1544490766300" duration="141000" />
+      <workItem from="1544493458610" duration="140000" />
+      <workItem from="1544516181918" duration="8177000" />
+      <workItem from="1544577326711" duration="139000" />
+      <workItem from="1544577510822" duration="1309000" />
+      <workItem from="1544664137387" duration="1705000" />
+      <workItem from="1544750887145" duration="141000" />
+      <workItem from="1544751636785" duration="619000" />
+      <workItem from="1544768040140" duration="405000" />
+      <workItem from="1544777316470" duration="949000" />
+      <workItem from="1545271337379" duration="3370000" />
+      <workItem from="1545283694217" duration="16468000" />
+      <workItem from="1545355666526" duration="60000" />
+      <workItem from="1545809851086" duration="338000" />
+      <workItem from="1545810384610" duration="10899000" />
+      <workItem from="1545872818659" duration="1989000" />
+      <workItem from="1545888711962" duration="9384000" />
+      <workItem from="1545898486420" duration="9019000" />
+      <workItem from="1545959060850" duration="2158000" />
+      <workItem from="1545966573373" duration="24000" />
+      <workItem from="1545968161240" duration="63000" />
+      <workItem from="1546504722651" duration="7264000" />
+      <workItem from="1546564255800" duration="9440000" />
+      <workItem from="1547777759722" duration="8777000" />
+      <workItem from="1547861627294" duration="351000" />
+      <workItem from="1547865486894" duration="3523000" />
+      <workItem from="1547882186077" duration="9739000" />
+      <workItem from="1548033023679" duration="19870000" />
+      <workItem from="1548061048952" duration="7274000" />
+      <workItem from="1548118914864" duration="11826000" />
+      <workItem from="1548135824829" duration="16794000" />
+      <workItem from="1548205612256" duration="1670000" />
+      <workItem from="1548209896637" duration="5559000" />
+      <workItem from="1548223757524" duration="12544000" />
+      <workItem from="1548291793832" duration="1797000" />
+      <workItem from="1548296324882" duration="1677000" />
+      <workItem from="1548298031165" duration="24823000" />
+      <workItem from="1548379468267" duration="999000" />
+      <workItem from="1548382944760" duration="23038000" />
+      <workItem from="1548464894848" duration="245000" />
+      <workItem from="1548465647927" duration="26630000" />
+      <workItem from="1548637552624" duration="8592000" />
+      <workItem from="1548656244663" duration="255000" />
+      <workItem from="1548662732438" duration="810000" />
+      <workItem from="1548669747338" duration="1612000" />
+      <workItem from="1548724470210" duration="636000" />
+      <workItem from="1548725844664" duration="4347000" />
+      <workItem from="1548742763102" duration="1351000" />
+      <workItem from="1548746467921" duration="1077000" />
+      <workItem from="1548748872680" duration="4124000" />
+      <workItem from="1548754851262" duration="2501000" />
+      <workItem from="1550192250861" duration="1569000" />
+      <workItem from="1550199075524" duration="8482000" />
+      <workItem from="1550223521500" duration="1852000" />
+      <workItem from="1550278798346" duration="25000" />
+      <workItem from="1550365294700" duration="21079000" />
+      <workItem from="1550400365966" duration="535000" />
+      <workItem from="1550451872921" duration="1703000" />
+      <workItem from="1550469199828" duration="1757000" />
+      <workItem from="1550478420218" duration="2545000" />
+      <workItem from="1550547405058" duration="7005000" />
+      <workItem from="1550562603064" duration="8963000" />
+      <workItem from="1550624765627" duration="19891000" />
+      <workItem from="1550711023683" duration="2000000" />
+      <workItem from="1550719216095" duration="730000" />
+      <workItem from="1550731791841" duration="6476000" />
+      <workItem from="1550797424839" duration="15273000" />
+      <workItem from="1551066371488" duration="19466000" />
+      <workItem from="1551142950940" duration="6712000" />
+      <workItem from="1551159666327" duration="11064000" />
+      <workItem from="1551174073454" duration="446000" />
+      <workItem from="1551174866004" duration="1383000" />
+      <workItem from="1551229522699" duration="7732000" />
+      <workItem from="1551245174365" duration="740000" />
+      <workItem from="1551252589063" duration="79000" />
+      <workItem from="1551254980868" duration="73000" />
+      <workItem from="1551262454108" duration="3768000" />
+      <workItem from="1551315995969" duration="11590000" />
+      <workItem from="1551333188622" duration="15347000" />
+      <workItem from="1551401918372" duration="6526000" />
+      <workItem from="1551411452069" duration="21000" />
+      <workItem from="1551417278915" duration="1484000" />
+      <workItem from="1551419336406" duration="13347000" />
+      <workItem from="1551661238211" duration="12217000" />
+      <workItem from="1551681928345" duration="9671000" />
+      <workItem from="1551747588188" duration="623000" />
+      <workItem from="1551751655851" duration="2458000" />
+      <workItem from="1551754315332" duration="1562000" />
+      <workItem from="1551774007216" duration="990000" />
+      <workItem from="1551838048946" duration="537000" />
+      <workItem from="1551866722926" duration="310000" />
+      <workItem from="1551921244790" duration="3664000" />
+      <workItem from="1551945365996" duration="4914000" />
+      <workItem from="1552441125440" duration="3080000" />
+      <workItem from="1552445754839" duration="1024000" />
+      <workItem from="1552525966052" duration="1754000" />
+      <workItem from="1552876081080" duration="10372000" />
+      <workItem from="1553047253279" duration="672000" />
+      <workItem from="1553048148334" duration="2434000" />
+      <workItem from="1553066481856" duration="9302000" />
+      <workItem from="1553130337829" duration="6325000" />
+      <workItem from="1553233491061" duration="4561000" />
+      <workItem from="1553244385547" duration="1484000" />
+      <workItem from="1553567318172" duration="1394000" />
+      <workItem from="1553586013450" duration="608000" />
+      <workItem from="1553589553281" duration="290000" />
+      <workItem from="1553744917984" duration="123000" />
+      <workItem from="1553755648182" duration="2048000" />
+      <workItem from="1553765027622" duration="382000" />
+      <workItem from="1553765638171" duration="228000" />
+      <workItem from="1553854120732" duration="790000" />
+      <workItem from="1554080187633" duration="144000" />
+      <workItem from="1554109503856" duration="585000" />
+      <workItem from="1554176662180" duration="371000" />
+      <workItem from="1554191788945" duration="4264000" />
+      <workItem from="1554196139283" duration="1321000" />
+      <workItem from="1555052848264" duration="623000" />
+      <workItem from="1555055419132" duration="2927000" />
+      <workItem from="1555290661481" duration="7167000" />
+      <workItem from="1555299954010" duration="18723000" />
+      <workItem from="1555376441444" duration="16492000" />
+      <workItem from="1555550692284" duration="22619000" />
+      <workItem from="1555635737427" duration="3525000" />
+      <workItem from="1555911690507" duration="8245000" />
+      <workItem from="1556069143690" duration="18975000" />
+      <workItem from="1556153877179" duration="29274000" />
+      <workItem from="1556240838077" duration="22660000" />
+      <workItem from="1556413520788" duration="2408000" />
+      <workItem from="1556416957809" duration="22860000" />
+      <workItem from="1556499623487" duration="4214000" />
+      <workItem from="1556505801692" duration="510000" />
+      <workItem from="1556507350317" duration="123000" />
+      <workItem from="1556508384951" duration="10000" />
+      <workItem from="1556509796841" duration="99000" />
+      <workItem from="1556531724549" duration="232000" />
+      <workItem from="1556534686183" duration="444000" />
+      <workItem from="1556590585792" duration="1915000" />
+      <workItem from="1556608691484" duration="44000" />
+      <workItem from="1557019565332" duration="826000" />
+      <workItem from="1557139508873" duration="31000" />
+      <workItem from="1557907641196" duration="1163000" />
+      <workItem from="1559006156549" duration="2769000" />
+      <workItem from="1559525925320" duration="1955000" />
+      <workItem from="1563435267626" duration="1193000" />
+      <workItem from="1563526246342" duration="2261000" />
+      <workItem from="1563757311021" duration="933000" />
+      <workItem from="1575281479606" duration="1006000" />
+      <workItem from="1575282664837" duration="263000" />
+      <workItem from="1575334537355" duration="1096000" />
+      <workItem from="1584414137391" duration="838000" />
+      <workItem from="1587089822761" duration="16614000" />
+      <workItem from="1587115358775" duration="2558000" />
+      <workItem from="1587346002203" duration="28042000" />
+      <workItem from="1587431390443" duration="21364000" />
+      <workItem from="1587517035938" duration="519000" />
+      <workItem from="1587527172818" duration="3681000" />
+      <workItem from="1587864890398" duration="2492000" />
+      <workItem from="1587952248148" duration="2761000" />
+      <workItem from="1587969898969" duration="532000" />
+      <workItem from="1590975101150" duration="1504000" />
+      <workItem from="1590977082522" duration="679000" />
+    </task>
+    <task id="LOCAL-00001" summary="初始化">
+      <created>1554196940359</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1554196940359</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1770170000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22918862" sideWeight="0.64935064" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827735" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2965368" sideWeight="0.51159114" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22918862" sideWeight="0.35064936" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827735" sideWeight="0.49367756" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.48840886" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2524377" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17650159" sideWeight="0.3188248" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40063426" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2965368" sideWeight="0.51159114" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16174921" sideWeight="0.13251156" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827735" sideWeight="0.49367756" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29761904" sideWeight="0.48840886" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2524377" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16174921" sideWeight="0.86748844" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40063426" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17650159" sideWeight="0.3188248" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初始化" />
+    <option name="LAST_COMMIT_MESSAGE" value="初始化" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/default.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/qq.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/shang.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://D:/demo/src/page/login.vue" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/HZ$D.777.539/header.html" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/HZ$D.777.540/news_content.html" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/HZ$D.359.3214/introduce.html" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/HZ$D.777.541/header.html" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/HZ$D.359.3212/header.html" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/HZ$D.359.3213/foot_move.html" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/HZ$D.359.3215/information.html" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/HZ$D.491.124/main.js" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/HZ$D.491.125/main.js" />
+    <entry file="file://F:/bank/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="13" column="66" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/HZ$D.551.1285/addLeave.vue" />
+    <entry file="file://$PROJECT_DIR$/src/page/home/a.vue" />
+    <entry file="file://$PROJECT_DIR$/src/page/addholiday.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="91" column="48" selection-start-line="0" selection-start-column="0" selection-end-line="268" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/home/home.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4509">
+          <caret line="287" column="29" selection-start-line="287" selection-start-column="29" selection-end-line="287" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/bbsManage/src/page/sign/sign.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="217" column="13" selection-start-line="207" selection-start-column="11" selection-end-line="217" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/teller/src/page/teller/dotInfo/sign.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="163" column="19" selection-start-line="163" selection-start-column="19" selection-end-line="163" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/teller/src/page/teller/tellerInfo/tellorg.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="85" column="23" selection-start-line="85" selection-start-column="23" selection-end-line="85" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/teller/src/page/teller/tellerInfo/tellrole.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-890">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/teller/src/page/teller/tradeInfo/role.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="497" column="14" selection-start-line="497" selection-start-column="14" selection-end-line="497" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/teller/src/page/teller/tellerInfo/teller.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="684" column="44" selection-start-line="684" selection-start-column="44" selection-end-line="684" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/edit.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="211" column="24" selection-start-line="211" selection-start-column="12" selection-end-line="211" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/indexThread.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="689" column="31" selection-start-line="689" selection-start-column="31" selection-end-line="689" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/home/overtime.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5751">
+          <caret line="227" column="30" selection-start-line="227" selection-start-column="30" selection-end-line="227" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/home/leave.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/home/outwork.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/home/holiday.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2015">
+          <caret line="216" column="30" selection-start-line="216" selection-start-column="30" selection-end-line="216" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/home/aovertime.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6669">
+          <caret line="247" column="42" selection-start-line="247" selection-start-column="42" selection-end-line="247" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/home/manage.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1458">
+          <caret line="54" column="43" selection-start-line="54" selection-start-column="43" selection-end-line="54" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/home/attendance.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="243" column="30" selection-start-line="243" selection-start-column="30" selection-end-line="243" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/home/aleave.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="28" column="46" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/home/aoutwork.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4077">
+          <caret line="151" column="64" selection-start-line="151" selection-start-column="64" selection-end-line="151" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/HZ$D.576.1121/site.vue" />
+    <entry file="file://$USER_HOME$/Desktop/global/src/router/index.js" />
+    <entry file="file://$USER_HOME$/Desktop/global/src/components/qcwy/index.vue" />
+    <entry file="file://$PROJECT_DIR$/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="325" column="0" selection-start-line="325" selection-start-column="0" selection-end-line="353" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/home/reimbursement.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5643">
+          <caret line="209" column="22" selection-start-line="209" selection-start-column="22" selection-end-line="209" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/bbsManage/src/components/Global.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/global.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/bbsMaster1/src/page/home/home.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2997">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/bbsMaster1/src/page/home/homes.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3564">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/bbsMaster1/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="0" column="7" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#21#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/bbsMaster1/src/components/global.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1141">
+          <caret line="70" column="23" selection-start-line="70" selection-start-column="23" selection-end-line="70" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/home/amonth.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/home/clock.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="165" column="10" selection-start-line="165" selection-start-column="10" selection-end-line="165" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

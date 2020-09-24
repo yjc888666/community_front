@@ -1,0 +1,140 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "PingFangSC-Regular";
+}
+article,aside,dialog,footer,header,section,footer,nav,figure,menu{
+    display:block;
+}
+img,input,textarea,fieldset{
+    border:none;
+    outline:none;
+}
+i,em{
+    font-style:normal;
+}
+:focus{
+    outline: none;
+}
+a{
+    vertical-align: baseline;
+    text-decoration: none;
+}
+/* 移动端点击a链接出现蓝色背景问题解决 */
+a:link,a:active,a:visited,a:hover {
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    -webkit-tap-highlight-color: transparent;
+}
+a,button,input,textarea{
+    /*去掉a、input合button点击时的蓝色外边框合灰色半透明背景*/
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+/*input 在手机端中会出现阴影*/
+input[type="text"] {
+    -webkit-appearance: none;
+}
+input[type=button], input[type=submit], input[type=file], button {
+    cursor: pointer;
+    -webkit-appearance: none;
+}
+textarea{
+    -webkit-appearance: none;
+}
+address,cite,dfn,em,var,i{
+    font-style:normal;
+}
+table,tr,td {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+caption, th {
+    text-align: left;
+}
+sup, sub {
+    font-size: 100%;
+    vertical-align: baseline;
+}
+
+ul,ol,dd,dt,dl{
+    list-style-type:none;
+}
+/*placeholder css*/
+::-moz-placeholder{
+    font-family: "PingFangSC-Regular";
+}
+::-webkit-input-placeholder{
+    font-family: "PingFangSC-Regular";
+}
+:-ms-input-placeholder{
+    font-family: "PingFangSC-Regular";
+}
+
+
+/*文字排版、颜色*/
+.f12{
+    font-size:12px;
+}
+.f13{
+    font-size:13px;
+}
+.f14{
+    font-size:14px;
+}
+.f16{
+    font-size:16px;
+}
+.f20{
+    font-size:20px;
+}
+.fb{
+    font-weight:bold;
+}
+.fn{
+    font-weight:normal;
+}
+.t2{
+    text-indent:2em;
+}
+
+/*定位*/
+.tl{
+    text-align:left;
+}
+.tc{
+    text-align:center;
+}
+.tr{
+    text-align:right;
+}
+.fl{
+    float: left;
+}
+.fr{
+    float: right;
+}
+.db{
+    display: block;
+}
+.clear{
+    *zoom:1;
+}
+.clear:after{
+    content:"";
+    display:block;
+    clear:both;
+    height:0;
+}
+/*文本超出显示省略号*/
+/*单行溢出*/
+.ehn{
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+/*多行溢出*/
+.ehn-more{
+    overflow : hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+}
