@@ -2,8 +2,9 @@
     <div class="fly-header layui-bg-green" style="border-bottom: 1px solid #01AAED;">
         <div class="layui-container">
             <router-link to="/" class="fly-logo" style="top: 0;">
-                <img src="../assets/img/zongbu.png" style="height:60px" alt="laysns" v-show="!show">
-                <img :src="url+logo" style="height:60px" alt="laysns" v-show="show">
+                <img src="../assets/img/zongbu.png" style="height:60px" alt="laysns" >
+                <!-- <img src="../assets/img/zongbu.png" style="height:60px" alt="laysns" v-show="!show"> -->
+                <!-- <img :src="url+logo" style="height:60px" alt="laysns" v-show="show"> -->
             </router-link>
             <ul class="layui-nav fly-nav layui-hide-xs">
                 <li class="layui-nav-item">
@@ -33,7 +34,9 @@
                     <div>
                         <span style="color: rgba(255,255,255,.7);display: block;float:left;line-height:60px;margin-right:10px;margin-left:10px" >{{name}}</span>
                         <!--<i class="iconfont icon-touxiang" style="font-size:34px;color:#fff;line-height:60px"></i>-->
-                        <img :src="url+userhead" alt="" style="width:36px;height:36px;border-radius:100%;line-height:60px;margin-top:12px;" >
+                       
+                        <img src="../assets/img/default.png" alt="" style="width:36px;height:36px;border-radius:100%;line-height:60px;margin-top:12px;" >
+                        <!-- <img :src="url+userhead" alt="" style="width:36px;height:36px;border-radius:100%;line-height:60px;margin-top:12px;" > -->
                     </div>
                     <router-link to="/messages" class="fly-nav-msg"  v-show="message">{{message}}</router-link>
                     <el-dropdown-menu slot="dropdown">

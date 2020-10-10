@@ -14,7 +14,7 @@
                 <button class="layui-btn layui-btn-danger read_del"  @click="delsAll">{{ $t("my.delAllMessage") }}</button>
 
                 <ul class="mine-msg">
-                    <li class="messagelist" v-for="(item,index) in messageDate">
+                    <li class="messagelist" v-for="(item,index) in messageDate" :key="index">
                         <blockquote class="layui-elem-quote"  v-show="item.type==2">
                             <a href="javascript:;"  @click="homeEvent(item.uid)"><cite>{{item.username}}</cite></a>{{ $t("my.repPost") }}<a href="javascript:;"><cite v-html="item.title"></cite></a>
                         </blockquote>
@@ -23,7 +23,7 @@
                         </blockquote>
                         <blockquote class="layui-elem-quote"  v-show="item.type==1">{{ $t("my.sysInfo") }}{{item.title}}</blockquote>
                         <blockquote class="layui-elem-quote"  v-show="item.type==4">
-                            <a href="javascript:;"  @click="homeEvent(item.uid)"><cite>{{item.username}}</cite></a>{{ $t("my.holidPub") }}<a href="javascript:;"><cite v-html="item.title"></cite></a>
+                            <a href="javascript:;"  @click="homeEvent(item.uid)"><cite>{{item.username}}</cite></a> <el-tag :type="item.message!=null&&item.message.match('^审核未通过')?'danger':'success'">{{item.message==null?$t('my.holidPub'):'发来消息--'+item.message}}</el-tag> <a href="javascript:;"><cite v-html="item.title"></cite></a>
                         </blockquote>
                         <blockquote class="layui-elem-quote"  v-show="item.type==5">
                             <a href="javascript:;"  @click="homeEvent(item.uid)"><cite>{{item.username}}</cite></a>{{ $t("my.audiPub") }}<a href="javascript:;"><cite v-html="item.title"></cite></a>
@@ -34,6 +34,7 @@
                             <a href="javascript:;"
                                class=" elementdel layui-btn layui-btn-sm layui-btn-danger fly-delete" @click="del(item.id,index)">{{ $t("common.del") }}</a>
                         </p>
+                        
                     </li>
                 </ul>
                 <div style="text-align: center;" v-show="pageShow">

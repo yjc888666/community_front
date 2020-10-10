@@ -47,7 +47,7 @@
                                             </tr>
                                             </thead>
                                             <tbody>
-                                            <tr class="" v-for="(item,index) in memberList">
+                                            <tr class="" v-for="(item,index) in memberList"  :key='index'>
                                                 <td data-field="add_time" align="center" data-content="1541379228">
                                                     <div class="layui-table-cell laytable-cell-1-add_time">{{item.add_time}}</div>
                                                 </td>

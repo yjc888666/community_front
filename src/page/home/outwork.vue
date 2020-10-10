@@ -4,6 +4,7 @@
             <ul class="layui-tab-title">
                 <li><router-link to="/holiday">我要请假</router-link></li>
                 <li class="layui-this">申请外出</li>
+                <li><router-link to="/workerListLeave">员工请假列表</router-link></li>
             </ul>
             <div class="layui-form layui-form-pane" style="padding: 20px 0;">
                 <div class="layui-form-item">

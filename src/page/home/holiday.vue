@@ -4,6 +4,7 @@
             <ul class="layui-tab-title">
                 <li class="layui-this">我要请假</li>
                 <li><router-link to="/outwork">申请外出</router-link></li>
+                <li><router-link to="/workerListLeave">员工请假列表</router-link></li>
             </ul>
             <div class="layui-form layui-form-pane" style="padding: 20px 0;">
                 <div class="layui-form-item">
@@ -54,7 +55,7 @@
                     <div class="layui-inline">
                         <label class="layui-form-label">{{$t('add.holidayType')}}</label>
                         <div class="layui-input-block">
-                            <el-select v-model="value" clearable :placeholder="$t('common.choose')">
+                            <el-select v-model="type" clearable :placeholder="$t('common.choose')">
                                 <el-option
                                     v-for="item in option"
                                     :key="item.id"
@@ -83,9 +84,9 @@
                             <el-select v-model="value3" clearable :placeholder="$t('common.choose')">
                                 <el-option
                                     v-for="item in auditor"
-                                    :key="item.uid"
+                                    :key="item.id"
                                     :label="item.username"
-                                    :value="item.uid">
+                                    :value="item.id">
                                 </el-option>
                             </el-select>
                         </div>
@@ -124,6 +125,9 @@
             }
         },
         methods: {
+       
+
+
 //            职位接口
             positiontype(){
                 var me=this;
@@ -159,6 +163,8 @@
                 this.value2=val;
             },
             submit(){
+                console.log(this.value3)
+                console.log(this.auditor)
                 var para = {
                     position_id:this.position_id,
                     type:this.type,
@@ -209,12 +215,12 @@
                                 type: 'success'
                             })
 //                            me.$router.push({path: '/aleave'});
-                            me.position_id = "";
+                            // me.position_id = "";
                             me.type = "";
                             me.value1 = "";
                             me.value2 = "";
+                            me.value3 = "";
                             me.content = "";
-                            me.exuid = "";
                         }
                         if(result.data.result==false){
                             me.$message({

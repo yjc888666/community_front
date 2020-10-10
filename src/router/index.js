@@ -238,6 +238,10 @@ const routes = [
                 component:resolve => require(['@/page/home/outwork'], resolve),
             },
             {
+                path: '/workerListLeave',
+                component:resolve => require(['@/page/home/workerListLeave'], resolve),
+            },
+            {
                 path: '/overtime',
                 component:resolve => require(['@/page/home/overtime'], resolve),
             },
